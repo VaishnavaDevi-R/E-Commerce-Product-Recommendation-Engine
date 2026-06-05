@@ -8,11 +8,7 @@ This project simulates how modern e-commerce platforms generate personalized rec
 
 ## 🚀 Live Demo
 
-Add your deployed Streamlit URL here:
-
-```text
-https://your-app-name.streamlit.app
-```
+🔗 https://e-commerce-product-recommendation-engine-pk1c.onrender.com
 
 ---
 
