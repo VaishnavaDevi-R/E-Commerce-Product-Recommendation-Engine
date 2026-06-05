@@ -1,0 +1,101 @@
+product_id,name,category,price,rating
+1001,Gaming Monitor 1001,Gaming,9041,3.7
+1002,Gaming Keyboard 1002,Gaming,9600,4.1
+1003,Gaming Chair 1003,Gaming,12188,4.5
+1004,Gaming Headset 1004,Gaming,11427,4.7
+1005,Gaming Monitor 1005,Gaming,5474,4.6
+1006,Gaming Headset 1006,Gaming,8707,4.8
+1007,Gaming Headset 1007,Gaming,8708,4.8
+1008,Gaming Headset 1008,Gaming,9765,4.5
+1009,Gaming Mouse 1009,Gaming,7523,3.6
+1010,Gaming Keyboard 1010,Gaming,1205,4.1
+1011,RGB Mouse Pad 1011,Gaming,6609,4.0
+1012,Gaming Mouse 1012,Gaming,7325,3.9
+1013,RGB Mouse Pad 1013,Gaming,8838,4.3
+1014,Gaming Chair 1014,Gaming,13255,4.9
+1015,RGB Mouse Pad 1015,Gaming,2643,3.5
+1016,Gaming Keyboard 1016,Gaming,3711,4.0
+1017,Gaming Monitor 1017,Gaming,14964,3.8
+1018,Gaming Keyboard 1018,Gaming,2301,4.9
+1019,Gaming Mouse 1019,Gaming,5689,4.0
+1020,RGB Mouse Pad 1020,Gaming,7223,4.9
+1021,Tablet 1021,Electronics,13297,3.8
+1022,Webcam 1022,Electronics,5309,3.6
+1023,Tablet 1023,Electronics,538,3.7
+1024,Smartphone 1024,Electronics,1263,4.1
+1025,Laptop 1025,Electronics,3992,3.8
+1026,Tablet 1026,Electronics,14411,4.3
+1027,Smartphone 1027,Electronics,12300,4.4
+1028,Smartphone 1028,Electronics,9735,4.1
+1029,Bluetooth Speaker 1029,Electronics,12662,3.7
+1030,Tablet 1030,Electronics,12257,3.7
+1031,Smart Watch 1031,Electronics,1237,3.7
+1032,Webcam 1032,Electronics,3138,4.3
+1033,Laptop 1033,Electronics,8961,4.5
+1034,Laptop 1034,Electronics,4181,4.3
+1035,Bluetooth Speaker 1035,Electronics,6524,4.6
+1036,Laptop 1036,Electronics,8198,4.6
+1037,Smart Watch 1037,Electronics,7836,4.8
+1038,Smart Watch 1038,Electronics,12954,4.8
+1039,Smart Watch 1039,Electronics,5670,3.5
+1040,Smart Watch 1040,Electronics,3456,4.2
+1041,T-Shirt 1041,Fashion,8272,3.9
+1042,Jeans 1042,Fashion,12538,5.0
+1043,Sneakers 1043,Fashion,12832,3.7
+1044,Jeans 1044,Fashion,11172,4.6
+1045,Jeans 1045,Fashion,12591,3.6
+1046,Cap 1046,Fashion,1364,4.1
+1047,Jacket 1047,Fashion,14940,4.0
+1048,Jeans 1048,Fashion,6931,4.7
+1049,Jeans 1049,Fashion,10839,3.8
+1050,Sneakers 1050,Fashion,9876,5.0
+1051,Cap 1051,Fashion,5419,4.3
+1052,Jacket 1052,Fashion,2110,4.3
+1053,Cap 1053,Fashion,12350,4.7
+1054,Cap 1054,Fashion,3786,4.3
+1055,Jacket 1055,Fashion,14056,4.3
+1056,T-Shirt 1056,Fashion,8080,4.2
+1057,Jacket 1057,Fashion,1891,4.4
+1058,Cap 1058,Fashion,9278,4.1
+1059,Hoodie 1059,Fashion,4265,4.3
+1060,Jacket 1060,Fashion,13741,4.4
+1061,Data Science 1061,Books,2467,4.3
+1062,Data Science 1062,Books,4420,4.6
+1063,AI Fundamentals 1063,Books,6476,4.0
+1064,Python Programming 1064,Books,11091,4.7
+1065,Web Development 1065,Books,3362,4.0
+1066,Python Programming 1066,Books,13434,5.0
+1067,DSA Handbook 1067,Books,4798,3.9
+1068,Web Development 1068,Books,10882,4.1
+1069,Data Science 1069,Books,5212,4.1
+1070,AI Fundamentals 1070,Books,8494,4.4
+1071,DSA Handbook 1071,Books,11659,4.1
+1072,Data Science 1072,Books,6573,3.7
+1073,Python Programming 1073,Books,1296,4.5
+1074,Data Science 1074,Books,4870,4.6
+1075,AI Fundamentals 1075,Books,2277,3.6
+1076,Web Development 1076,Books,13730,4.6
+1077,Machine Learning 1077,Books,1773,4.3
+1078,AI Fundamentals 1078,Books,8960,3.9
+1079,Data Science 1079,Books,3121,4.1
+1080,Python Programming 1080,Books,8676,4.3
+1081,Basketball 1081,Sports,2168,4.2
+1082,Football 1082,Sports,5595,5.0
+1083,Tennis Racket 1083,Sports,14152,4.7
+1084,Yoga Mat 1084,Sports,8206,4.3
+1085,Cricket Bat 1085,Sports,3876,4.9
+1086,Football 1086,Sports,4438,4.3
+1087,Gym Gloves 1087,Sports,11328,3.7
+1088,Yoga Mat 1088,Sports,5928,3.7
+1089,Cricket Bat 1089,Sports,5167,4.3
+1090,Cricket Bat 1090,Sports,8620,4.7
+1091,Basketball 1091,Sports,8382,4.6
+1092,Tennis Racket 1092,Sports,6693,4.1
+1093,Cricket Bat 1093,Sports,532,3.7
+1094,Yoga Mat 1094,Sports,4188,4.7
+1095,Basketball 1095,Sports,2208,4.5
+1096,Cricket Bat 1096,Sports,8186,3.7
+1097,Gym Gloves 1097,Sports,13805,3.9
+1098,Yoga Mat 1098,Sports,13544,4.4
+1099,Football 1099,Sports,1657,3.7
+1100,Gym Gloves 1100,Sports,12465,4.2
